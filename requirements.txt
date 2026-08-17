@@ -1,0 +1,7 @@
+streamlit
+pillow
+transformers
+pandas
+openpyxl
+sacremoses
+torch --index-url https://pytorch.org
